@@ -1,10 +1,17 @@
-# Three.js Journey
+# Creepy House
+
+## Links
+
+- [GitHub](https://github.com/itsMehrshad/CreepyHouse)
+- [Live](https://creepy-house.vercel.app/)
+- [Models](#)
 
 ## Setup
+
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
-``` bash
+```bash
 # Install dependencies (only the first time)
 npm install
 
